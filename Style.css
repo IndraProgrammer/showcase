@@ -1,0 +1,13 @@
+img{
+  width:500px;
+}
+.menu{
+    list-style:  none;
+    font-family: fantasy;
+    position: fixed;
+     margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    background-color: azure;
+}
